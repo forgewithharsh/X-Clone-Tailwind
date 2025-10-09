@@ -17,6 +17,7 @@ This project helped me **enhance my skills in modern UI design, responsive layou
 
 ## Screenshots
 ![Screenshot 1](./assets/xclone1.jpeg)
+
 ![Screenshot 2](./assets/xclone2.jpeg)
 
 ## Installation
