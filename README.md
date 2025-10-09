@@ -31,4 +31,4 @@ git clone https://github.com/your-username/X-Clone-Tailwind.git
 
 - GitHub: [@Harsz06](https://x.com/harsz_06)
 - Email: guleriah59@gmail.com
-- YouTube Course: [X.com (Twitter) Clone using Tailwind CSS | Sigma Web Development Course](https://www.youtube.com/watch?v=iegMqFnVocA&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=101)
+- YouTube Course: [X.com (Twitter) Clone using Tailwind CSS](https://www.youtube.com/watch?v=iegMqFnVocA&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=101)
