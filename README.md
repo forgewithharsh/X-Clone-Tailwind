@@ -16,8 +16,8 @@ This project helped me **enhance my skills in modern UI design, responsive layou
 - **Frontend Development**: Structuring a real-world clone project
 
 ## Screenshots
-![Screenshot 1](./assets/screenshot1.png)
-![Screenshot 2](./assets/screenshot2.png)
+![Screenshot 1](./assets/xclone1.jpeg)
+![Screenshot 2](./assets/xclone2.jpeg)
 
 ## Installation
 1. Clone the repo:  
