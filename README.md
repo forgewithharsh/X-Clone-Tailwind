@@ -26,9 +26,3 @@ This project helped me **enhance my skills in modern UI design, responsive layou
 git clone https://github.com/your-username/X-Clone-Tailwind.git
 ```
 2. Open index.html in your browser.
-
-## Connect With Me
-
-- GitHub: [@Harsz06](https://x.com/harsz_06)
-- Email: guleriah59@gmail.com
-- YouTube Course: [X.com (Twitter) Clone using Tailwind CSS](https://www.youtube.com/watch?v=iegMqFnVocA&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=101)
